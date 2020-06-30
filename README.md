@@ -2,7 +2,7 @@
 
 it's a radix tree implemented by Golang.
 
-## eaxmple
+## example
 ```go
 package main
 
